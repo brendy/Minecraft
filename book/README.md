@@ -7,4 +7,4 @@
 #####  
 ### 도서
 ##### https://github.com/brendy/Minecraft/tree/main/book/books
-##### 마인크래프트 관련 서적입니다.
+##### 마인크래프트 관련 도서입니다.
