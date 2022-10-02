@@ -1,5 +1,4 @@
 # 마인크래프트 관련 소프트웨어
-=========
 
 ---
 ## minecraft education edition
