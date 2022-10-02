@@ -1,4 +1,5 @@
 # 연수자료
+이 연수 자료는 본인이 직접 개발한 교재입니다.
 ##### 01_마인크래프트란.pdf https://github.com/brendy/Minecraft/blob/main/book/training/01_마인크래프트란.pdf
 ##### 02_설치및설정.pdf https://github.com/brendy/Minecraft/blob/main/book/training/02_설치및설정.pdf
 ##### 03_수업을위한월드준비.pdf https://github.com/brendy/Minecraft/blob/main/book/training/03_수업을위한월드준비.pdf
