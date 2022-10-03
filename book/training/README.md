@@ -10,5 +10,5 @@
 ##### 08_클래스룸모드.pdf https://github.com/brendy/Minecraft/blob/main/book/training/08_클래스룸모드.pdf
 ##### 09_교육용아이템.pdf https://github.com/brendy/Minecraft/blob/main/book/training/09_교육용아이템.pdf
 ##### 10_관리자명령.pdf https://github.com/brendy/Minecraft/blob/main/book/training/10_관리자명령.pdf
-##### 11_코드빌더.pdf https://github.com/brendy/Minecraft/blob/main/book/training/11_코드빌더.pdf
+##### 11_코드빌더.pdf https://github.com/brendy/Minecraft/blob/main/book/training/11_코드빌더.pdf
 ##### 12_수업탐색.pdf https://github.com/brendy/Minecraft/blob/main/book/training/12_수업탐색.pdf
