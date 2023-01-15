@@ -1,5 +1,5 @@
 # 학생 교재 및 학습지
-마인크래프트 수업을 위해 본인이 직접 개발한 주요 학생 교재와 학습지 자료입니다.
+마인크래프트 수업을 위해 개발한 주요 학생 교재와 학습지 자료입니다.
 
 #### 01_마인크래프트들어가기.pdf https://github.com/brendy/Minecraft/blob/main/book/learning/01_마인크래프트들어가기.pdf
 #### 02_살아남기.pdf https://github.com/brendy/Minecraft/blob/main/book/learning/02_살아남기.pdf
