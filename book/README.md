@@ -1,4 +1,4 @@
-# Minecraft 관련 서적
+# Minecraft 관련 자료
 #### Minecraft 관련 교재, 연수 자료, 도서 자료
 
 - book : 관련 도서 및 연수 자료) <br>
