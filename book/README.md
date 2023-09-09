@@ -1,9 +1,15 @@
 # Minecraft 관련 서적
 #### Minecraft 관련 교재, 연수 자료, 도서 자료
 
-- book (관련 도서 및 연수 자료) https://github.com/brendy/Minecraft/tree/main/book <br>
-. article (논문) https://github.com/brendy/Minecraft/tree/main/book/article <br>
-. books (관련 도서) https://github.com/brendy/Minecraft/tree/main/book/books <br>
-. learning (학생 교재, 학습지) https://github.com/brendy/Minecraft/tree/main/book/learning <br>
-. plan (지도안) https://github.com/brendy/Minecraft/tree/main/book/plan <br>
-. training (연수 자료) https://github.com/brendy/Minecraft/tree/main/book/training
+- book : 관련 도서 및 연수 자료) <br>
+. article : 논문 <br>
+. books : 관련 도서 <br>
+. learning : 학생 교재, 학습지 <br>
+. plan : 지도안 <br>
+. training : 연수 자료
+  
+- map : 마인크래프트 맵 자료 <br>
+
+- media : 마인크래프트 활동 사진 및 동영상 자료 <br>
+
+- software : 관련 소프트웨어
